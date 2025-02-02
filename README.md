@@ -1,5 +1,12 @@
 ## Hi there 👋
-
+<div id="badges">
+  <a href="https://t.me/olegsandrik">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://vk.com/olegsandrik">
+    <img src="https://img.shields.io/badge/ВКонтакте-#2E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>
+  </a>
+</div>
 <!--
 **Olegsandrik/Olegsandrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
